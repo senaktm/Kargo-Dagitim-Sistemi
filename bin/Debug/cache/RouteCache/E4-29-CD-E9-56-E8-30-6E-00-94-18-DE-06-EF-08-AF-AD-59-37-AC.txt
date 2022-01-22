@@ -1,0 +1,276 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcWNoL41OyxQRPGWypzIBnz4",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJzU7iLY9KyxQR7joMjHkU9ZY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.91813579999999,
+               "lng" : 29.9218101
+            },
+            "southwest" : {
+               "lat" : 40.8229864,
+               "lng" : 29.8033711
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "18.8 km",
+                  "value" : 18842
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1588
+               },
+               "end_address" : "Cuma, Unnamed Road, 41780 Körfez/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.91813579999999,
+                  "lng" : 29.8040164
+               },
+               "start_address" : "Kabaoğlu, Kocaeli Ünv. Tıp Fak Hst. Acil Servis, 41000 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.8249018,
+                  "lng" : 29.9185737
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8244434,
+                        "lng" : 29.91857509999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eKocaeli Ünv. Tıp Fak Hst. Acil Servis\u003c/b\u003e toward \u003cb\u003eKocaeli Ünv. Tıp Fak Hst. Acil Servis\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "srdxFanruD?@?@?@?@?@?@@??@?@@@?@@??@@??@@?@@@?@?@?@?@?@??A@?@??A@??AJDF@B?HABADADCBCFO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8249018,
+                        "lng" : 29.9185737
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "16 m",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8243215,
+                        "lng" : 29.9185689
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wodxFcnruD?@@??@@?@?@?@?@?@??A@?@??A@??ABB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8244434,
+                        "lng" : 29.91857509999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 m",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.824312,
+                        "lng" : 29.9176775
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eKocaeli Ünv. Tıp Hst.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_odxFanruD?fC@h@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8243215,
+                        "lng" : 29.9185689
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 163
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 40.8230532,
+                        "lng" : 29.9170429
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKocaeli Sağlık Hizmetleri MYO\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}ndxFohruDD?D?@?D@DBFJp@fAFHFJHHB@FDFDF?J@ZAhAG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.824312,
+                        "lng" : 29.9176775
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 438
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 40.8248279,
+                        "lng" : 29.9214715
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "agdxFodruDFeABg@?K?K?C?IAG?ECEMi@Sg@GMKUYe@Sa@Q[IWQg@CEK_@AGGSKg@Q_AOk@o@yAi@w@OUW[EKGM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8230532,
+                        "lng" : 29.9170429
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.5 km",
+                        "value" : 7502
+                     },
+                     "duration" : {
+                        "text" : "10 mins",
+                        "value" : 603
+                     },
+                     "end_location" : {
+                        "lat" : 40.8581635,
+                        "lng" : 29.8611639
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eKocaeli Çayırova Yolu\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "erdxFe`suD@C@C?C@A@C?C@C?C?A?A?A?A?A?AA??CAAAC?AAAAAAAAAAAA?AAA?AAA?A?A?A?C?A@C?A@A@A@A?A@?@A@AB?@A@?@?BA@?@?B?@?B@BKRQXa@z@g@r@i@b@KHIFw@`@aA^SFMHe@TiAx@s@h@SLc@`@KNS^Q^OZEFUd@ILIXCHIR]j@[\\WXGLEJEPCV?R?J@f@@l@@b@?P?NANCNCHEJEDCBKFMFSB]?WBA?A?SBMDEDEDEDELGNAHCLAN?V?t@AXCRADCHCFEFQTMNSVCFEJCHCLCL?FAJA\\AVCLCNGNCHC@GHQLWJIBOBQBUAOCMAQAm@Ka@EUA[?O@QFSH{@`@k@^[JE@C@I@I@K?KAMAOEKGMKMKMOMKIEEAGAI@EBIFA?EFOZKRMPIHGDGBG@E?G?EAIECAQOGGSOIEA?EAE?G@E@CDA@CBAHADCPGVAHELA@CFGFIHCBa@XIHCFEJENEPCJADGTGLITm@`AOP[\\CBUVYPGBQFO@C@_@BKBEBGDEDA@ADCJAJAJ?@?H@HDNLZJNJLXZPPBB`@VVN@@HHDD@F@D@B?@?DADADADCDA@C@A@GBK@E@G?A?YCGAc@E_@Gg@AU?M?GBG@CBABCBADABAF?HBVDX@P?@@L?JAXEh@CRET?BCJELEJABKNSTo@v@MN[b@UZA@Y\\GFo@h@CBKJMRA@KPITQ`@Y|@q@zBUt@EJMd@?BMp@G^AFAPC\\Ab@?H?X@R@l@H`B@R?X?XAT?@Ed@UjCIt@AHI`@ABI`@ADCHINOZABg@t@}@`B[j@Wb@c@t@Ub@M\\M^Qh@UbAOf@ELKNIJMFMFYH]FIDGDGFC@CFCFCFAH?@AN?H@JBNN|@D^@P?LADAPCTADIj@CNI\\Kj@UdA_@hBQ`AEVADEd@Et@Ch@Cn@?@EZANCPQp@Kd@IXGb@AFE`@Cn@?p@Bz@Bj@?B@`@?H?PCRCVEVABELOh@}@rBOZQ`@SXKJMFKDM@YAQ?Q?gAAWDIDIFEDINQf@ABUr@_AbDc@xAMZABS^A@[b@k@n@GF[^A@YZOPQVW^OZCDOf@IXCVAR@VBf@?DDf@Fr@Ft@Fr@HbATjBD\\@H@Z@^?\\ATATCVATEZGt@E^Ib@In@EXCLCHCDCFCFSR[NUHQJMNELABKbAENEH]ZYNIDQNABIPAHEXEREDGFEBG?EAWGSGUCSBQDi@V]BC?UAS@MB[R[XWP[N[TIJGPGTAX@b@Bt@AJA@?DCBC@C@E@I?AAa@Ii@Ic@C]CC?QBOFSRGJCFERAHANA\\ER[r@i@z@KPEFO\\G^GrAEVAFELGHCB]Xe@Zu@Pk@FMBYF]Na@Vg@VuAl@SLMLIHQR[`@k@dACBa@v@mAzBMVGJkAjBc@t@Wl@KXER?FCf@?DBn@?JBr@D~@FXLZ`@n@Zv@Nv@Db@BbA?vA@xA@V@TFl@BVDt@ANCb@SfBAJC`@IbAETENMN_@b@ONe@`@CDORkA|Bg@`A}@`C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8248279,
+                        "lng" : 29.9214715
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.3 km",
+                        "value" : 2325
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 181
+                     },
+                     "end_location" : {
+                        "lat" : 40.8713511,
+                        "lng" : 29.8652862
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "obkxFggguDUTSPQJG@G@KAC?KC]YOM?A[[u@w@_@_@QSy@o@QGKCSCOCc@Gc@GQCs@KSAM?K?QBEDE@MRWt@CRCzDAXI`AOh@MXq@t@C@y@`@GFg@^A@i@\\]X[^CBu@t@a@VUJMDMBI?I?ICKEOOMYCEKc@Ka@Qk@QUMIA?WIa@Oc@Qq@]s@]SGOCA?SAQAm@?WAE?OCSEOIKEQKUOKE}@q@MK_Aq@g@YOEGCG?E?A?IBQHURU\\S`@CFUl@_@p@g@r@c@j@OPSLKFID]Lc@LYDc@Hm@Dg@@k@?WAOAKCMGGIOSK]?AGg@AEUeBGc@Ky@IqAAKMoBKyBKcBIwACw@@a@@U?KBOD[@GNq@ViAJg@B]@]"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8581635,
+                        "lng" : 29.8611639
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.8 km",
+                        "value" : 2831
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 248
+                     },
+                     "end_location" : {
+                        "lat" : 40.8895898,
+                        "lng" : 29.8456832
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}tmxFaahuDWF_@PeAp@e@d@]f@MVMV_@`As@zBy@pC]hA_@nAy@tCwAtEY`AADe@`BKZaAhDq@`Cw@dCGReA~C]bAAH_@hACHUr@Sd@UZY\\[\\SFi@Pi@RsAd@WJYRSPs@n@o@l@YTe@^qA`Aa@d@UXGHi@r@[b@m@x@EFy@lAi@v@UROFK?MCm@OYCWAU@o@Fc@H[@U?i@Gc@A[?OBYJ[NQNWP_@Zy@j@e@Xe@Rk@Ro@PK@m@LkARi@JWHYJa@NGBaAT_AVk@Pe@RULYL]Nk@Lw@Jq@Ju@L]LMFU\\Wd@Yr@IXE`@ATAd@Ad@It@Mz@Md@GPGJEDCBGBC@C?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8713511,
+                        "lng" : 29.8652862
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.4 km",
+                        "value" : 5428
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 394
+                     },
+                     "end_location" : {
+                        "lat" : 40.91813579999999,
+                        "lng" : 29.8040164
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "}fqxFofduDa@IYQCAe@[}@{@_@[ECIEQKOCc@CWDOBc@Rg@ZEFa@\\YVABEB_@XUJIBc@N}@L_@Fe@Da@Bw@FMDQD[JOJUTINU^[j@_@t@Wl@Yj@O\\CHOl@Oz@S|@Mh@KTKTOTA@k@v@o@x@]`@s@~@_AnAe@t@g@dA]r@Wh@Wf@a@t@Wf@Q^EVCHK`AQnBKzAGx@UxCIp@Kb@c@nAYx@Oh@MjCKfEEjBE|@C`@Gf@O|@Of@Qf@Un@a@lAe@tA[hAU~@EPg@jBg@lB[|@Wv@KX_@z@[dA]lAk@zB_AnDABUn@CDUf@i@fACDQ`@Sl@O`@IVSZ?@g@n@W^CBQTCBIDC@E?C?C?EACAAAIEWU]c@w@iAi@k@AAWOGCE?G?G@G@EBKFOHMNc@n@q@`AQZCF{@nAmApBMRWd@Wh@Qh@Qx@Kf@UfAER]rAKZO`@W`AShAKv@CTUtAUjAUp@_@bAGPOd@G^El@Cj@AR?FI~AE~@ElA?d@ApAAf@?@C^Eh@WlBM~@OnAWzBUtBUfBEb@CR?L@JoDfEu@t@w@r@uCtCs@r@yCvCmAnAgBlBQR_B~A?@uAjAy@|@?@k@n@i@t@CByAjBc@^_@TQHYDMBUBM@k@?i@C]Gg@KiBa@i@MUG}A_@aAQ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8895898,
+                        "lng" : 29.8456832
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "srdxFanruDHVJ@DA@C`@DRKFMD@F?BC@ABjC@h@D?F?dAxA\\`@b@LdBIJmB?e@S}@aAqBaA}BYaA]gB_AeCwAuBCYDM?OKQOGSFINAJI\\s@tAqAvAUPyB`Aa@PoBnAgAv@o@p@{@bBm@vAg@~@[\\_@f@K\\A~ABrBOt@c@XkAFi@NYh@G~@GhB_@n@k@z@Kl@InASj@q@b@aAH}ASw@Gk@@e@PgB`Ao@Po@Aw@e@k@c@Q?OJc@v@g@d@[?g@_@e@WWH]vAWZs@n@q@xB}AtBw@l@eANYLMXCb@FXXj@z@~@dAr@JVCRKN[Hk@EaCO]DKP?l@Hz@KbBOr@g@t@oBfCsApA_@d@aAfC{AbFW|AG|AL|D?|Ae@hFWpA_@z@uEdIcAjDUt@UZsA`@]TM`@?f@Z~BGz@mB|JSxBMvBc@xBYfBC`BFfB@`AOfAcBfEe@z@YRYFk@AqBBc@b@iBbGq@tBUb@qA|AgAnA}@xAY`AEj@JlB`@`F^nDAhBS~B_@lCOd@WZq@X_@ZGPQrAc@d@w@h@WhAMLMBgAUe@Hi@V]BYAa@DkBnAe@`@Of@@~BILU@kASaAGUBc@ZSp@Cl@a@fAkArBWrCMVa@\\e@Zu@Py@Jw@ViAn@iBz@WV}A~BeCvEoB`Dc@fAIhALnDTt@|@fBTzABzCLtDHlAEr@c@xEKd@m@r@iAjAsB~D}@`CUTe@\\G@c@CiAeAaD{CaASmC_@_A@KFe@hAGnEKzA]bAu@v@kBjAgAv@_@b@wAlAc@Pk@?[UQ_@WeAc@aAiAc@}CuAsCMaAa@mBsA_Aq@w@_@WC[Lk@p@mAhCkA~Ac@^wAh@}@NuAF_BGUQ[q@_@uC_@{Do@eL?{BZeBb@qBD{@w@XkBvAk@~@m@xAkDfLsI|Y_FnOi@`Au@z@{DrAq@^gA`AaEdDiB|BiCrD_AjA[F{@Sq@EeCT_CIi@Nm@^wCrBqAf@{@R{Dv@eCt@kBh@{@`@w@\\cBXgBXk@Tm@bAc@lAKbCWpBUv@YXG@{@[gCuBq@Y{@@s@ViBxA}@l@m@R}ATmCVm@Pe@`@{ApCeA`CaApEi@bAmDrEeBdCeAxBiBnDWv@OjA{@~KUtA}@hCOh@MjCQrHI~AWdByAlEaF`Qk@tAy@rCcC~IgAzB_AhCsAlBc@b@Q@UKwCoDa@U]Bo@d@{GpKi@rA]`B[zAi@nBg@bB_@`CYjBk@|Bg@tAWdAKtBUrGGzCeCdTC`@@JoDfEmBhBiEhEaJhJoFjFyAjB}BjCq@^kANuACeASgGwAaAQ"
+         },
+         "summary" : "Kocaeli Çayırova Yolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

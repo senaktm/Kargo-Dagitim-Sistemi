@@ -1,0 +1,620 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "QX98+R3W İzmit/Kocaeli, Turkey",
+      "global_code" : "8GGFQX98+R3W"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16-1",
+               "short_name" : "16-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yılmaz Sokak",
+               "short_name" : "Yılmaz Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yenişehir",
+               "short_name" : "Yenişehir",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41050",
+               "short_name" : "41050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yenişehir, Yılmaz Sk. 16-1, 41050 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769686,
+               "lng" : 29.965209
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7710349802915,
+                  "lng" : 29.9665579802915
+               },
+               "southwest" : {
+                  "lat" : 40.7683370197085,
+                  "lng" : 29.9638600197085
+               }
+            }
+         },
+         "place_id" : "ChIJJQ7LfeZPyxQRWuFGw49ixAc",
+         "plus_code" : {
+            "compound_code" : "QX98+V3 İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFQX98+V3"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "No: 2",
+               "short_name" : "No: 2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ova Sokak",
+               "short_name" : "Ova Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yenişehir",
+               "short_name" : "Yenişehir",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41050",
+               "short_name" : "41050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yenişehir, Ova Sk. No: 2, 41050 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769694,
+               "lng" : 29.965291
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7710429802915,
+                  "lng" : 29.9666399802915
+               },
+               "southwest" : {
+                  "lat" : 40.76834501970851,
+                  "lng" : 29.9639420197085
+               }
+            }
+         },
+         "place_id" : "ChIJGwKWfeZPyxQRbjAAuDKzxpQ",
+         "plus_code" : {
+            "compound_code" : "QX98+V4 İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFQX98+V4"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yılmaz Sokak",
+               "short_name" : "Yılmaz Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yenişehir",
+               "short_name" : "Yenişehir",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41050",
+               "short_name" : "41050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yenişehir, Yılmaz Sk. No:12, 41050 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7695991,
+               "lng" : 29.9649052
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7709480802915,
+                  "lng" : 29.96625418029149
+               },
+               "southwest" : {
+                  "lat" : 40.7682501197085,
+                  "lng" : 29.9635562197085
+               }
+            }
+         },
+         "place_id" : "EjtZZW5pxZ9laGlyLCBZxLFsbWF6IFNrLiBObzoxMiwgNDEwNTAgxLB6bWl0L0tvY2FlbGksIFR1cmtleSIaEhgKFAoSCbfm8NblT8sUEQ1tmMt7dmZgEAw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "QX98+R3",
+               "short_name" : "QX98+R3",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "QX98+R3 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.769625,
+                  "lng" : 29.96525
+               },
+               "southwest" : {
+                  "lat" : 40.7695,
+                  "lng" : 29.965125
+               }
+            },
+            "location" : {
+               "lat" : 40.7696218,
+               "lng" : 29.96521
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.77091148029151,
+                  "lng" : 29.9665364802915
+               },
+               "southwest" : {
+                  "lat" : 40.76821351970851,
+                  "lng" : 29.9638385197085
+               }
+            }
+         },
+         "place_id" : "GhIJ8qSW94JiREARq8WnABj3PUA",
+         "plus_code" : {
+            "compound_code" : "QX98+R3 İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFQX98+R3"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "57-1",
+               "short_name" : "57-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yılmaz Sokak",
+               "short_name" : "Yılmaz Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yenişehir",
+               "short_name" : "Yenişehir",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41050",
+               "short_name" : "41050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yenişehir, Yılmaz Sk. 57-1, 41050 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.770236,
+                  "lng" : 29.9649807
+               },
+               "southwest" : {
+                  "lat" : 40.7685558,
+                  "lng" : 29.9648521
+               }
+            },
+            "location" : {
+               "lat" : 40.7693957,
+               "lng" : 29.9649132
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7707448802915,
+                  "lng" : 29.9662653802915
+               },
+               "southwest" : {
+                  "lat" : 40.7680469197085,
+                  "lng" : 29.9635674197085
+               }
+            }
+         },
+         "place_id" : "ChIJt-bw1uVPyxQRDG2Yy3t2ZmA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "41050",
+               "short_name" : "41050",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "41050 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.785357,
+                  "lng" : 29.9743019
+               },
+               "southwest" : {
+                  "lat" : 40.761615,
+                  "lng" : 29.9535201
+               }
+            },
+            "location" : {
+               "lat" : 40.77316889999999,
+               "lng" : 29.9639357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.785357,
+                  "lng" : 29.9743019
+               },
+               "southwest" : {
+                  "lat" : 40.761615,
+                  "lng" : 29.9535201
+               }
+            }
+         },
+         "place_id" : "ChIJV6Su7OdPyxQRAHGUAqFQ3oA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yenişehir",
+               "short_name" : "Yenişehir",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41050",
+               "short_name" : "41050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yenişehir, 41050 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.785357,
+                  "lng" : 29.9743019
+               },
+               "southwest" : {
+                  "lat" : 40.761615,
+                  "lng" : 29.9535201
+               }
+            },
+            "location" : {
+               "lat" : 40.7685433,
+               "lng" : 29.9639357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.785357,
+                  "lng" : 29.9743019
+               },
+               "southwest" : {
+                  "lat" : 40.761615,
+                  "lng" : 29.9535201
+               }
+            }
+         },
+         "place_id" : "ChIJD0RSk-dPyxQRiuBGUtnHPvk",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "İzmit, Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.805401,
+                  "lng" : 30.014834
+               },
+               "southwest" : {
+                  "lat" : 40.736827,
+                  "lng" : 29.8541681
+               }
+            },
+            "location" : {
+               "lat" : 40.7654408,
+               "lng" : 29.9408089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.805401,
+                  "lng" : 30.014834
+               },
+               "southwest" : {
+                  "lat" : 40.736827,
+                  "lng" : 29.8541681
+               }
+            }
+         },
+         "place_id" : "ChIJnftLZGZPyxQRuX5rWOcOaYI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.971557,
+                  "lng" : 30.2639339
+               },
+               "southwest" : {
+                  "lat" : 40.720553,
+                  "lng" : 29.8541681
+               }
+            },
+            "location" : {
+               "lat" : 40.8506635,
+               "lng" : 30.0202964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.971557,
+                  "lng" : 30.2639339
+               },
+               "southwest" : {
+                  "lat" : 40.720553,
+                  "lng" : 29.8541681
+               }
+            }
+         },
+         "place_id" : "ChIJL2DfPLZQyxQRitx6sY9PIGU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.20976,
+                  "lng" : 30.367743
+               },
+               "southwest" : {
+                  "lat" : 40.524151,
+                  "lng" : 29.3331261
+               }
+            },
+            "location" : {
+               "lat" : 40.8532704,
+               "lng" : 29.8815203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.20976,
+                  "lng" : 30.367743
+               },
+               "southwest" : {
+                  "lat" : 40.524151,
+                  "lng" : 29.3331261
+               }
+            }
+         },
+         "place_id" : "ChIJQ8zKb5QgyxQRWdhW642zLKg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

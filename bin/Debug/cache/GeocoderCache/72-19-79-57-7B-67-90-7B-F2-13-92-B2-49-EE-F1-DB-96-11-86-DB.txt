@@ -1,0 +1,376 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "26C3+46F Çekmeköy/İstanbul, Turkey",
+      "global_code" : "8GHF26C3+46F"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26C3+46",
+               "short_name" : "26C3+46",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Çekmeköy",
+               "short_name" : "Çekmeköy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "26C3+46 Çekmeköy/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.020375,
+                  "lng" : 29.203125
+               },
+               "southwest" : {
+                  "lat" : 41.02025,
+                  "lng" : 29.203
+               }
+            },
+            "location" : {
+               "lat" : 41.020319,
+               "lng" : 29.2030334
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02166148029149,
+                  "lng" : 29.2044114802915
+               },
+               "southwest" : {
+                  "lat" : 41.01896351970849,
+                  "lng" : 29.2017135197085
+               }
+            }
+         },
+         "place_id" : "GhIJZD4g0JmCREAR5v40__kzPUA",
+         "plus_code" : {
+            "compound_code" : "26C3+46 Çekmeköy/İstanbul, Turkey",
+            "global_code" : "8GHF26C3+46"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Güngören",
+               "short_name" : "Güngören",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Çekmeköy",
+               "short_name" : "Çekmeköy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34788",
+               "short_name" : "34788",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Güngören, Unnamed Road, 34788 Çekmeköy/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0193958,
+                  "lng" : 29.2062024
+               },
+               "southwest" : {
+                  "lat" : 41.0189185,
+                  "lng" : 29.2023744
+               }
+            },
+            "location" : {
+               "lat" : 41.019386,
+               "lng" : 29.2042075
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0205061302915,
+                  "lng" : 29.2062024
+               },
+               "southwest" : {
+                  "lat" : 41.0178081697085,
+                  "lng" : 29.2023744
+               }
+            }
+         },
+         "place_id" : "ChIJ9filx0bOyhQR-LIBSKtnsVY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Güngören",
+               "short_name" : "Güngören",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Çekmeköy",
+               "short_name" : "Çekmeköy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34788",
+               "short_name" : "34788",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Güngören, 34788 Çekmeköy/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0348599,
+                  "lng" : 29.2241989
+               },
+               "southwest" : {
+                  "lat" : 41.014121,
+                  "lng" : 29.190742
+               }
+            },
+            "location" : {
+               "lat" : 41.0264748,
+               "lng" : 29.2190018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0348599,
+                  "lng" : 29.2241989
+               },
+               "southwest" : {
+                  "lat" : 41.014121,
+                  "lng" : 29.190742
+               }
+            }
+         },
+         "place_id" : "ChIJr1uZmRDOyhQROhr0zqh-I-g",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "34788",
+               "short_name" : "34788",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Çekmeköy",
+               "short_name" : "Çekmeköy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "34788 Çekmeköy/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.039045,
+                  "lng" : 29.2428461
+               },
+               "southwest" : {
+                  "lat" : 41.012979,
+                  "lng" : 29.190686
+               }
+            },
+            "location" : {
+               "lat" : 41.0265253,
+               "lng" : 29.2146426
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.039045,
+                  "lng" : 29.2428461
+               },
+               "southwest" : {
+                  "lat" : 41.012979,
+                  "lng" : 29.190686
+               }
+            }
+         },
+         "place_id" : "ChIJ6Wjfdv_NyhQROYkDuGgoqxI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Çekmeköy",
+               "short_name" : "Çekmeköy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Çekmeköy/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.13267,
+                  "lng" : 29.401125
+               },
+               "southwest" : {
+                  "lat" : 41.012979,
+                  "lng" : 29.1383789
+               }
+            },
+            "location" : {
+               "lat" : 41.104235,
+               "lng" : 29.3177272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.13267,
+                  "lng" : 29.401125
+               },
+               "southwest" : {
+                  "lat" : 41.012979,
+                  "lng" : 29.1383789
+               }
+            }
+         },
+         "place_id" : "ChIJl9_dHeXSyhQRKuFGMuarJ-4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.58461,
+                  "lng" : 29.915705
+               },
+               "southwest" : {
+                  "lat" : 40.8026889,
+                  "lng" : 27.971373
+               }
+            },
+            "location" : {
+               "lat" : 41.1634302,
+               "lng" : 28.7664408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.58461,
+                  "lng" : 29.915705
+               },
+               "southwest" : {
+                  "lat" : 40.8026889,
+                  "lng" : 27.971373
+               }
+            }
+         },
+         "place_id" : "ChIJexVgWlG2yhQR6B1akfSarCI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

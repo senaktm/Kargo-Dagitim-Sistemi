@@ -1,0 +1,64 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "İstiklal",
+               "short_name" : "İstiklal",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Ümraniye",
+               "short_name" : "Ümraniye",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34762",
+               "short_name" : "34762",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "İstiklal, 34762 Ümraniye/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.025719,
+                  "lng" : 29.10676299999999
+               },
+               "southwest" : {
+                  "lat" : 41.009937,
+                  "lng" : 29.09598
+               }
+            },
+            "location" : {
+               "lat" : 41.017748,
+               "lng" : 29.0998066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.025719,
+                  "lng" : 29.10676299999999
+               },
+               "southwest" : {
+                  "lat" : 41.009937,
+                  "lng" : 29.09598
+               }
+            }
+         },
+         "place_id" : "ChIJA6a24fLIyhQRzFz-3co046Q",
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
