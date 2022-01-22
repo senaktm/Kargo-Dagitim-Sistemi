@@ -29,7 +29,7 @@ namespace YazLab11
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            GMapProviders.GoogleMap.ApiKey = "AIzaSyBYyZaWujSXEKZcR_D4s5pWpfZbhggwesw";
+            GMapProviders.GoogleMap.ApiKey = "";
             GMaps.Instance.Mode = AccessMode.ServerAndCache;
             map.CacheLocation = @"cache";
             map.DragButton = MouseButtons.Left;
